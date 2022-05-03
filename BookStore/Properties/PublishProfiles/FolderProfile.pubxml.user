@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Learn\.Net Core\sitedb</_PublishTargetUrl>
+    <History>True|2022-04-08T12:39:46.7672657Z;True|2022-04-08T14:37:46.2331435+02:00;True|2022-04-07T01:23:53.5155474+02:00;True|2022-04-07T01:21:54.1810559+02:00;True|2022-04-07T01:16:21.2991844+02:00;True|2022-04-07T01:06:17.2865976+02:00;True|2022-04-07T00:55:44.7561820+02:00;</History>
+  </PropertyGroup>
+</Project>
